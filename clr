@@ -1,0 +1,48 @@
+[33mcommit 549d3618c11fe08c345b558e04fbf4486ee17851[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature[m[33m)[m
+Author: SANJAY <sanjaymohan7077@gmail.com>
+Date:   Sun Sep 29 16:05:28 2024 +0530
+
+    hello file modified
+
+[33mcommit fe5959bf0a90adf3432925039fd4e1dc33937071[m[33m ([m[1;32mmaster[m[33m)[m
+Author: SANJAY <sanjaymohan7077@gmail.com>
+Date:   Sun Sep 29 16:00:59 2024 +0530
+
+    Hey file modified
+
+[33mcommit 957dabd1815c2eb1ff0cb7f90e29a12d9ffbe44b[m[33m ([m[1;35mrefs/stash[m[33m)[m
+Merge: 667a9da 27ff678
+Author: SANJAY <sanjaymohan7077@gmail.com>
+Date:   Sun Sep 29 15:36:23 2024 +0530
+
+    WIP on master: 667a9da Feature Branch commiting
+
+[33mcommit 27ff67855a6d1021c7ce83348518f04afaeb3c27[m
+Author: SANJAY <sanjaymohan7077@gmail.com>
+Date:   Sun Sep 29 15:36:23 2024 +0530
+
+    index on master: 667a9da Feature Branch commiting
+
+[33mcommit 667a9da6a5ca3e9d131b774d17c425407278ebbe[m
+Author: SANJAY <sanjaymohan7077@gmail.com>
+Date:   Sun Sep 29 15:19:20 2024 +0530
+
+    Feature Branch commiting
+
+[33mcommit 4e1f9cbdd632874d3977bff7d3844f9dca185c6b[m
+Author: SANJAY <sanjaymohan7077@gmail.com>
+Date:   Sun Sep 29 15:15:10 2024 +0530
+
+    Hey file created
+
+[33mcommit a08d1fa1348d25a6d8bd1e6dd2eefdeae49bf5d0[m
+Author: SANJAY <sanjaymohan7077@gmail.com>
+Date:   Sun Sep 29 15:09:33 2024 +0530
+
+    Hello changed
+
+[33mcommit 5583bf818cf69a16ffa9926719609e2d388d45fb[m
+Author: SANJAY <sanjaymohan7077@gmail.com>
+Date:   Sun Sep 29 15:06:14 2024 +0530
+
+    Initial File Created
